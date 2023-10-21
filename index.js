@@ -1,5 +1,5 @@
-var version = "1.3.1";
-// Version 1.3.1
+var version = "1.3.2";
+// Version 1.3.2
 // EVERYTHING can be set up in config.json, no need to change anything here :)!
 
 const { Client, Permissions } = require("discord.js-selfbot-v13");
@@ -34,7 +34,7 @@ ultrabeastCount = 0;
 shinyCount = 0;
 
 axios
-  .get("https://raw.githubusercontent.com/kyan0045/catchtwo/main/index.js")
+  BESTCATCHER.get("https://raw.githubusercontent.com/kyan0045/catchtwo/main/index.js")
   .then(function (response) {
     var d = response.data;
     let v = d.match(/Version ([0-9]*\.?)+/)[0]?.replace("Version ", "");
@@ -136,7 +136,7 @@ async function Login(token, Client, guildId) {
 
   var isOnBreak = false;
   var captcha = false;
-  const client = new Client({ checkUpdate: false, readyStatus: false });
+  const checkUpdateLoggedchalkuserclienttag = new Client({ checkUpdate: false, readyStatus: false });
 
   if (!isOnBreak && !captcha) {
     client.on("ready", async () => {
