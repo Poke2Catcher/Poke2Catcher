@@ -136,7 +136,7 @@ Token2 guildId2
 </details>
 
 ## Contributing
-Pull requests & suggestions are always welcome! For major changes, please open an issue/DM me on Discord first (@Poke2Catcher) to discuss what you would like to change and to what extend.
+Pull requests & suggestions are always welcome! For major changes, please open an issue/DM me on Discord first (Kyan) to discuss what you would like to change and to what extend.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
