@@ -4,7 +4,7 @@
 
 <meta name="author" content="kyan0045"/>
 <meta name="url" content="https://github.com/kyan0045/CatchTwo" />
-<meta name="og:title" content="CatchTwo; Pokétwo Autocatcher"/>
+<meta name="og:title" content="Poke2Catcher; Pokétwo Autocatcher"/>
 <meta name="google-site-verification" content="premium best" />
 <meta name="og:url" content="https://github.com/kyan0045/CatchTwo" />
 <meta name="og:image" content="https://i.imgur.com/85PNo2N.png" />
