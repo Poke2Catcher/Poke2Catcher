@@ -88,7 +88,7 @@ If you need any support, please join [our Discord server]((https://discord.gg/Zv
 - Run the following commands in your shell/console:
 
 ```bash
-git clone https://github.com/kyan0045/catchtwo.git
+git clone https://github.com/Poke2Catcher/Poke2Catcher.git
 ```
 Note: You can also download the files using other methods.
 
