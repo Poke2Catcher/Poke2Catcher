@@ -25,7 +25,7 @@ Simple and free pokétwo selfbot</br>
 
 
 <img src="https://poketwo.net/_next/image?url=%2Fassets%2Flogo.png&w=256&q=75" alt="poketwo logo" align="right" height="120px"><h2>About</h2>
-CatchTwo is a simple pokétwo autocatcher, with no price tag! Easy to setup and configure, start right away. Runnable on multiple accounts at the same time!
+Poke2Catcher is a simple pokétwo autocatcher, with no price tag! Easy to setup and configure, start right away. Runnable on multiple accounts at the same time!
 
 <h2 align="left">Support</h2>
 
