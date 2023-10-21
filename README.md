@@ -29,7 +29,7 @@ CatchTwo is a simple pokétwo autocatcher, with no price tag! Easy to setup and 
 
 <h2 align="left">Support</h2>
 
-If you need any support, please join [our Discord server](https://discord.gg/tXa2Hw5jHy): https://discord.gg/tXa2Hw5jHy
+If you need any support, please join [our Discord server]((https://discord.gg/ZvEEzVXN)): (https://discord.gg/ZvEEzVXN)
 
 <h2 align="left">Features</h2>
 
